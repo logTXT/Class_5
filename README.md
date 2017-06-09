@@ -1,11 +1,11 @@
 ## Welcome to My middle high school
 You can use the [Class 5](https://github.com/logTXT/JianLiYiZhon10-5) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.[百度](http://www.baidu.com)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 监利一中13级5班
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们是一个有趣的集体，我们是高中教育改革的实验地，我们也是课改过程中的佼佼者
 
 ```markdown
 Syntax highlighted code block
@@ -23,14 +23,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/logTXT/JianLiYiZhon10-5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 我们的制度
